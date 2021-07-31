@@ -1,0 +1,16 @@
+.div-main {
+  background-color: purple;
+  border: 1px solid aliceblue;
+  font-size: 50px;
+  height: 150%;
+  width: 1200px;
+  padding: 200px 200px 170px 100px;
+  border: 100px;
+  justify-content: center;
+  display: flex;
+}
+
+.time {
+  justify-content: center;
+  display: flex;
+}
